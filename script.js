@@ -4,7 +4,7 @@ const cars = [
         id: 1,
         name: 'All New Rush',
         type: 'Large Car',
-        image: 'https://via.placeholder.com/900x600',
+        image: 'https://placehold.co/600x400/FF6B6B/white',
         price: 72,
         specs: {
             seats: 5,
@@ -15,7 +15,7 @@ const cars = [
         id: 2,
         name: 'BMW M4',
         type: 'Exclusive Car',
-        image: 'https://via.placeholder.com/900x600',
+        image: 'https://placehold.co/600x400/4ECDC4/white',
         price: 120,
         specs: {
             seats: 4,
@@ -26,7 +26,7 @@ const cars = [
         id: 3,
         name: 'Mercedes C-Class',
         type: 'Exclusive Car',
-        image: 'https://via.placeholder.com/900x600',
+        image: 'https://placehold.co/600x400/45B7D1/white',
         price: 110,
         specs: {
             seats: 5,
@@ -37,7 +37,7 @@ const cars = [
         id: 4,
         name: 'Toyota Corolla',
         type: 'Small Car',
-        image: 'https://via.placeholder.com/900x600',
+        image: 'https://placehold.co/600x400/96CEB4/white',
         price: 65,
         specs: {
             seats: 5,
